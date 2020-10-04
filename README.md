@@ -29,32 +29,10 @@ HW0105
 設一個指向char的指位器  inttohex(int a)  
 利用sprintf把整數以十六進位列印到字串中  
 設一個整數變數number  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+利用primtf()印出"輸入一個整數:"  
+利用scanf()輸入整數設給整數變數number  
+設一個指向char的指位器  str=inttohex(number)  
+利用printf()印出str字串得出的結果  
 
 
 * 姓名:孫韻婷
