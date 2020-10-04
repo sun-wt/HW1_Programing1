@@ -2,10 +2,10 @@
 float main()
 {
   float g=0;
-  printf("Please enter the time(s):");
-  scanf("%f",&g);
-  printf("Please enter the acceleration due to gravity:");
   float t=0;
+  printf("Please enter the acceleration due to gravity:");
+  scanf("%f",&g);
+  printf("Please enter the time(s):");
   scanf("%f",&t);
 
   float V=g*t;
