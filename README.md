@@ -8,7 +8,7 @@ HW0102
 使存入鍵入的五位整數  
 利用primtf()印出"輸入一個五位整數"  
 設置五個變數a,b,c,d,e分別代表五位整數的萬,千,百,十,個    
-再設置一個變數answer為axbxcxdxe  
+再設置一個變數answer為a x b x c x d x e  
 最後利用printf()印出變數answer得出的整數  
 
 
