@@ -11,7 +11,7 @@ int main()
 {
   int number;
   char *str;
-  printf("Please enter an intger:");
+  printf("Please enter an integer:");
   scanf("%d",&number);
   printf("%d:",number);
   str=inttohex (number);
